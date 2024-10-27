@@ -1,4 +1,6 @@
 
+src/staticfiles/vendors
+src/local-cdn
 ### Django ###
 *.log
 *.pot
