@@ -1,0 +1,4 @@
+DJANGO_DEBUG=True
+DJANGO_SECRET_KEY='django-insecure-vc#r%_jlul0ep$i6op0&)^!qgeski^vo7ry(gfn!c_8!oj-g1h'
+
+DATABASE_URL=postgresql://saas_progresql_user:8Cft8bmjKh2ZcEW2e6GRM6wUImsgkM39@dpg-csf98cu8ii6s739divig-a/saas_progresql
